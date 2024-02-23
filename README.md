@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Film Reporting System is a Java-based application designed for investors in the film industry. It allows users to store and retrieve information about different film studios and their productions, offering insights into various metrics such as box office earnings, film lengths, and genres. This system features a console-based user interface for easy data entry and reporting. It aslo uses git and github to log every stage of the development process to ensure that data is truly never losts
+The Film Reporting System is a Java-based application designed for investors in the film industry. It allows users to store and retrieve information about different film studios and their productions, offering insights into various metrics such as box office earnings, film lengths, and genres. This system features a console-based user interface for easy data entry and reporting. It aslo uses git and github to log every stage of the development process to ensure that data is truly never lost.
 
 ## Features
 
@@ -35,8 +35,13 @@ The Film Reporting System is a Java-based application designed for investors in 
 2. Run `ReportingIO.java` as a Java application.
 3. Follow the console prompts to interact with the system.
 
+
 ### Running Tests
 
 1. Ensure JUnit 5 is added to the project's build path.
 2. Navigate to the `filmingtest` package.
 3. Run the test classes individually or as a suite to execute unit tests.
+
+
+### Contact
+[github](https://github.com/Kael557)
