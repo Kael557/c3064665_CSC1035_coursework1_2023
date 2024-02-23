@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Film Reporting System is a Java-based application designed for investors in the film industry. It allows users to store and retrieve information about different film studios and their productions, offering insights into various metrics such as box office earnings, film lengths, and genres. This system features a console-based user interface for easy data entry and reporting.
+The Film Reporting System is a Java-based application designed for investors in the film industry. It allows users to store and retrieve information about different film studios and their productions, offering insights into various metrics such as box office earnings, film lengths, and genres. This system features a console-based user interface for easy data entry and reporting. It aslo uses git and github
 
 ## Features
 
